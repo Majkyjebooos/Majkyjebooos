@@ -1,3 +1,3 @@
 else
-    game.Players.LocalPlayer:Kick("Game not supported by Arches Systems.")
+    game.Players.LocalPlayer:Kick("CK GANG MRDKY")
 end
